@@ -44,8 +44,7 @@ API Endpoint Listesi
 •  POST /api/login → Yönetici girişi
 Kurulum Adımları
 1.  Projeyi Klonla
-git clone https://github.com/SenaKurtdede/SunucuTabanliProgramlama.git
-cd SunucuTabanliProgramlama
+git clone https://github.com/arauf4815-gif/kds-rauf
 2.  MySQL Veritabanı Kurulumu
 mysql -u root -p
 CREATE DATABASE arcanus;
